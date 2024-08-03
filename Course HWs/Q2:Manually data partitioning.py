@@ -6,7 +6,7 @@ dataa=["mnist", "spam", "cifar10"]
 size = []
 
 for x in range(len(dataa)):
-    load_data = np.load(f"C:/8th/ML/hw1/hw1/data/{dataa[x]}-data.npz")
+    load_data = np.load(f"data/{dataa[x]}-data.npz")
     np.random.seed(30)  # Setting seed for reproducibility
     i = np.arange(len(load_data['training_data']))
     np.random.shuffle(i)
