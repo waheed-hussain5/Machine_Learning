@@ -1,1 +1,3 @@
 # Machine_Learning
+
+In this repository, you will find some interesting basics models and practices of machine learning I have done in the undergrade course. Like how to use the csv data, spliting the data for training and testing, analysing the data by diffrent types of graphs eg scatter graphs, line graphs, and heat map. Then how to save the trained model and then using that in the future with a very interesting GUI which help user to use it very easily. Diffrent algorithms are being used for the porpose like regression, classification, linear, logistic, lasso and ridge regression, Support Vector Machine, and many more. so go have a look at all the files, hope you will find it ineresting and helpful.
